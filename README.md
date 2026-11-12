@@ -4,7 +4,7 @@
 
 **A mobile-first gym companion web app: follow the program, tick off sets, log weights and let the rest timer run.**
 
-[![Live site](https://img.shields.io/badge/Live-minyyyyyyyy.github.io-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://minyyyyyyyy.github.io/)
+[![Live site](https://img.shields.io/badge/Live-Open%20the%20app-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://minudakaliyanage.github.io/Workout-Tracker/)
 
 ![React](https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -47,8 +47,8 @@ To change the program, edit the `workouts` object at the top of [`src/WorkoutPro
 ## 🚀 Run locally
 
 ```bash
-git clone https://github.com/minudakaliyanage/Minyyyyyyyy.github.io.git
-cd Minyyyyyyyy.github.io
+git clone https://github.com/minudakaliyanage/Workout-Tracker.git
+cd Workout-Tracker
 npm install
 npm start          # dev server on http://localhost:3000
 ```
