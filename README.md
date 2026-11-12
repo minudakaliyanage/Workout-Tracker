@@ -69,6 +69,9 @@ src/
 ├── index.js             # React entry point
 └── index.css            # Tailwind directives
 public/index.html
+archive/
+└── WorkoutProgram_v1_ABC.jsx   # earlier version (Workout A / B / C program)
+assets/                  # README screenshots
 tailwind.config.js · postcss.config.js
 ```
 
